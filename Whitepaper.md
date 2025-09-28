@@ -1,7 +1,3 @@
-Of course. A professional, detailed, and compelling whitepaper is essential for a project's credibility on a platform like GitHub.
-
-Here is the complete OriProof Whitepaper, Version 1.2.0, written in English. It incorporates the strategic refinements, the "Trident" competitive moat, and the detailed responses to community feedback, all structured for a technical and strategic audience.
-
 OriProof Whitepaper: The Decentralized & Private Protocol for Content Attribution and Licensing
 
 Version: 1.2.0
